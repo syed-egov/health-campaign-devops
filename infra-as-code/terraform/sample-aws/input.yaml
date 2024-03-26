@@ -21,6 +21,6 @@ db_username: "healthdemo"
 domain_name: "digit-syed.digit.org"
 
 # Replace with the name you want to give to your S3 bucket which is used to store the terraform states
-terraform_state_bucket_name: "syed-health-digit-buckets"
+terraform_state_bucket_name: "syed1-health-digit-buckets"
 
 
